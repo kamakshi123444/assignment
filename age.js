@@ -11,7 +11,7 @@ const Users = [{
     age:24
 },
 {
-    name: "shivani",
+    name: "lkshita",
     age:34
 }
 ]
